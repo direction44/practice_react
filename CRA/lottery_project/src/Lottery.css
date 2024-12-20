@@ -1,0 +1,16 @@
+.lottery{
+    border: solid 2px goldenrod;
+    padding: 1em 0 2em 0;
+    text-align: center;
+    margin: 1em auto auto;
+    width: 40em;
+    border-radius: 10px;
+}
+
+.lottery button{
+    background-color: darkgoldenrod;
+    color: black;
+    font-size: 120%;
+    border-radius: 10px;
+    margin-top: 1em;
+}

@@ -1,0 +1,14 @@
+.Button{
+    background-color: brown;
+    font-size: 80%;
+    border-radius: 10px;
+    color: black;
+}
+.item{
+    list-style: none;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1.5em;
+}

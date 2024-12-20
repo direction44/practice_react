@@ -1,0 +1,16 @@
+.ProductItem{
+    background-color: goldenrod;
+    width: 40em;
+    border: solid 3px black;
+    border-radius: 10px;
+    padding: 1em 0 2em 0;
+    margin: 1em auto auto;
+    
+}
+.ProductItem hr{
+    border: solid 1px black;
+}
+.ProductItem h1{
+text-align: center;}
+
+

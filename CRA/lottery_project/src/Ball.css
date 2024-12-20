@@ -1,0 +1,14 @@
+.ball{
+    background-color: aquamarine;
+    width: 3em;
+    height: 2.25em;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    margin:  7px;
+    color: black;
+    padding-top: 0.75em;
+    margin-right: 0.5em;
+    font-weight: bold;
+    font-size: 1.5em;
+}
