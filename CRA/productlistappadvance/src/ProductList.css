@@ -1,0 +1,17 @@
+.ProductList{
+    background-color: burlywood;
+    width: 40em;
+    border: solid 3px purple;
+    border-radius: 10px;
+    padding: 1em 0 2em 0;
+    margin: 1em auto auto;
+}
+.ProductList hr{
+    border: solid 1px black;
+}
+.ProductList h1{
+text-align: center;
+}
+table{
+    width: 100%;
+}
