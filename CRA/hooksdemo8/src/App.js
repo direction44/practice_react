@@ -1,9 +1,9 @@
 import { Component } from "react";
-import Greeting from "./Greeting";
+import ShoppingCart from "./ShoppingCart";
 class App extends Component{
   render()
   {
-    return<Greeting/>
+    return<ShoppingCart/>
   }
 }
 
