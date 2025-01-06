@@ -15,6 +15,7 @@ export default function ShoppingCart()
        <h1>Your Shopping Cart</h1>
        <input type="text" value={item} onChange={addItem}></input>
        <button onClick={addAllItem}>click me</button>
+       <h3>Your Shopping Cart Is:{(AllItem.length>0?"":"Empty")}</h3>
        <ul>{AllItem.map((x)=>{
         return <li>{x}</li>
        })}</ul>
